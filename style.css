@@ -2,7 +2,11 @@
 	text-align: right;
 }
 h1{
+<<<<<<< HEAD
 	color:skyblue;
+=======
+	color:orange;
+>>>>>>> aef45f2f5f8f30d467c5f0b763bff34834f27957
 	background: black;
 	border:5px double orange;
 	text-align: center;
